@@ -92,8 +92,7 @@ This means that the other SDO will want to identify the significant contributors
 It is also useful to consider the following IPR topics:
 
 * Because the CG participants have already granted a non-exclusive license for the CG Specification, they cannot issue an exclusive license to other parties. W3C can, in the future, still take up the work in a Working Group (although it might not choose to do so for social / liaison reasons).
-* Will Contributors be asked to transfer ownership of their Contributions to another entity? In that case, what rights will Contributors retain about their Contributions? 
-  * This has an impact on [revision management](#revision-management) strategies.
+* Will Contributors be asked to transfer ownership of their Contributions to another entity? In that case, what rights will Contributors retain about their Contributions? This may have an impact on [revision management](#revision-management) strategies.
 * What is the policy of the other SDO in terms of reuse of material in a Community Group (for example, if the CG were to work on a subsequent revision of a Specification and would want to incorporate revisions made by the SDO)?
 * ISO-specific Consideration: [W3C is a PAS Submitter to ISO](https://www.w3.org/2010/04/pasfaq), but only for Recommendations. That is: one way to transfer a CG Specification to ISO is to launch a W3C Working Group to develop a Recommendation, then use the PAS process to submit it to ISO.
 
