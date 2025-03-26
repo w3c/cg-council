@@ -96,7 +96,7 @@ It is also useful to consider the following IPR topics:
 * What is the policy of the other SDO in terms of reuse of material in a Community Group (for example, if the CG were to work on a subsequent revision of a Specification and would want to incorporate revisions made by the SDO)?
 * ISO-specific Consideration: [W3C is a PAS Submitter to ISO](https://www.w3.org/2010/04/pasfaq), but only for Recommendations. That is: one way to transfer a CG Specification to ISO is to launch a W3C Working Group to develop a Recommendation, then use the PAS process to submit it to ISO.
 
-## Revision management
+### Revision management
 
 * What is the Community Group’s expectation about continuing to work on the topic after handing off the CG Specification for standardization? 
 * Do the Community Group and the potential venue for standardization share expectations about how revisions will be handled? 
