@@ -1,6 +1,6 @@
 # Considerations when transferring a CG Specification for Standardization
 
-Status:  This is a draft with no standing. Questions? Ian Jacobs and Dominique Hazael-Massieux. See also the AB white paper on incubation, [Recommendation Track Readiness Best Practices](https://www.w3.org/guide/standards-track/), and the existing [CG transition guide](https://www.w3.org/guide/process/cg-transition.html).
+Status:  This is a draft with no standing. Questions? Raise issues in this repo or contact Ian Jacobs and Dominique Hazaël-Massieux. See also the AB white paper on incubation, [Recommendation Track Readiness Best Practices](https://www.w3.org/guide/standards-track/), and the existing [CG transition guide](https://www.w3.org/guide/process/cg-transition.html).
 
 ## Introduction
 
