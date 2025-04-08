@@ -98,7 +98,8 @@ It is also useful to consider the following IPR topics:
 
 ### Revision management
 
-* What is the Community Group’s expectation about continuing to work on the topic after handing off the CG Specification for standardization? 
+* What is the Community Group’s expectation about continuing to work on the topic after handing off the CG Specification for standardization?
+   * For example, a Community Group might a venue for developers to provide feedback and express concerns, while a Working Group might focus on standardization of the specification.
 * Do the Community Group and the potential venue for standardization share expectations about how revisions will be handled? 
    * From a W3C perspective, it is acceptable for a Community Group to continue to incubate new material relative to a Specification that it has handed off to a standards group (a W3C Working Group or other SDO). 
    * In this case, clear communication about “what is being standardized” and “what is being incubated” is critical to avoid market confusion.
