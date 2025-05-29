@@ -1,6 +1,7 @@
+# Proposed Process Enhancements for CG Specifications with Traction
 Status: This is a proposal for discussion; it does not yet represent consensus.
 
-# Background
+## Background
 
 Once a specification has gained traction, we anticipate that
 implementers and users of the specification will naturally start to
@@ -32,12 +33,12 @@ activities to reduce obstacles to advancing to standardization, we
 propose here to incrementally enhance process protections in CGs,
 especially once a specification has traction.
 
-# Goals
+## Goals
 
 * Keep the CG process lightweight overall, and particularly during the early phases of incubation.
 * Encourage, but do not require, decision-making processes that offer protections for participants.
 
-# Proposal
+## Proposal
 
 * Add to the CG Process a working definition of Traction:
 
@@ -66,6 +67,6 @@ especially once a specification has traction.
   * Participants **should** record formal objections (publicly) within the  Community Group and **should** bring them to the attention of a group that takes up the specification for standardization.
   * Participants who want to develop alternative proposals can do so in other Community Groups.
 
-# Implementation Notes
+## Implementation Notes
 
 * The [CG Charter template](https://w3c.github.io/cg-charter/CGCharter.html) includes relevant provisions, but these should be reviewed.
