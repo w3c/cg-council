@@ -1,4 +1,4 @@
-# Proposed Process Enhancements for CG Specifications with Traction
+# Process Enhancements for CG Specifications with Traction
 Status: This is a proposal for discussion; it does not yet represent consensus.
 
 ## Background
