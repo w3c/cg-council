@@ -6,3 +6,9 @@ The W3C Team uses this repository to reflect the history and status of policy fi
 ## Revamp 2024
 
 See the [issues related to revamp 2024](https://github.com/w3c/cg-council/labels/revamp-2024). 
+
+### Proposals 
+
+* [CG Specification Lifecycle](proposals/spec-lifecycle.md)
+* [Community Group Lifecycle](proposals/cg-lifecycle.md)
+* [Process Enhancements](proposals/process-enhancements.md)
