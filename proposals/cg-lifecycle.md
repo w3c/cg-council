@@ -71,7 +71,7 @@ In addition, because we do reopen CGs, and because some people have indicated th
 
 ### Specifications
 
-* The fact that a CG is dormant (and why) is an important piece of information to communicate around any Specification being developed by the CG. To avoid confusion, it would help to communicate clearly in every Specification developed by the CG what the community should expect. This might be achieved by simple status section update.
+* The fact that a CG is dormant (and why) is an important piece of information to communicate around any Specification being developed by the CG. To avoid confusion, it would help to communicate clearly in every Specification developed by the CG what the community should expect (e.g, the specification is not likely to change while the group is dormant). This might be achieved by simple status section update.
 
 ## Implementation
 
@@ -83,6 +83,8 @@ In addition, because we do reopen CGs, and because some people have indicated th
 ### CG site
 
 * Put dormant groups lower in the sorted list (by activity)
+* When someone clicks on the “Join” button, the join page should tell them that the group is dormant (with a link to the definition of dormant in the revised CG process.)
+* In home pages for the CG (whether it’s the WordPress instance or the /groups/cg page) there should be a cautionary statement: "Note: this group is currently dormant” which a link to the definition of dormant.
 
 ### Differences when entering closed or dormant states
 
