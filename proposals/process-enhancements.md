@@ -3,71 +3,51 @@ Status: This is a proposal for discussion; it does not yet represent consensus.
 
 ## Background
 
-Once a specification has gained traction, we anticipate that
-implementers and users of the specification will naturally start to
-prefer stability due to their investments. A group may still want to
-change a specification based on implementation or deployment
-experience, but we expect that group consensus will increasingly favor
-stability (and many CGs operate under consensus decision processes,
-such as WICG, Web Assembly, Social Web, and GPU for the Web, and
-Solid).  We have not observed significant demand for additional
-process protections related to CG decisions around specifications with
-traction.
+Once a specification has gained traction, we anticipate that implementers and users of the specification will naturally start to
+prefer stability due to their investments. A group may still want to change a specification based on implementation or deployment experience, but we expect that group consensus will increasingly favor stability.
 
-Such protections are integral to a standardization process. Thus, the
-W3C Process for Working Groups includes protections such as:
+Many CGs in practice (such as WICG, Web Assembly, Social Web, and GPU for the Web, and Solid) adjust their decision-making processes once a specification gains traction. 
 
-* Decisions by consensus
-* Right to express reasonable position
-* Requiring that decisions and formal objections be recorded publicly
-* Appeal paths
+We are seeking generally to lower barriers to advance to standardization, but in practice there is often a delay between when a
+specification has gained traction and when a W3C Working Group or other SDO has taken up the specification. 
 
-Our goal is that Community Groups remain lightweight for incubation
-and that for full protections, a specification should advance to
-standardization.
+For that reason, we propose to create guidelines for CGs that have specifications with traction.
 
-However, in practice there is often a delay between when a
-specification has gained traction and when a W3C Working Group or
-other SDO has taken up the specification. In parallel with other
-activities to reduce obstacles to advancing to standardization, we
-propose here to incrementally enhance process protections in CGs,
-especially once a specification has traction.
+**Note**: Although we want Specifications with traction to advance to standardization, we also want to be able to charter a Working Group in some cases where there is not traction, for example:
 
-## Goals
+* The context is such that it is important to charter a standardization activity, even without one specification with traction.
+* The community has not been able to converge and there are multiple competing proposals (full specifications or feature definitions) on the table. In this case, a Working Group (with its additional process supports) could help the community pursue a harmonized Specification.
 
-* Keep the CG process lightweight overall, and particularly during the early phases of incubation.
-* Encourage, but do not require, decision-making processes that offer protections for participants.
+## Guidelines
 
-## Proposal
+**Note:** This is an outline for discussion.
 
-* Add to the CG Process a working definition of Traction:
+### Definition of Traction
 
 > A Specification with Traction is one that fulfills any of the following criteria:
 > * It is implemented in at least two products (e.g., browser engines) with large-scale distribution in the Specification ecosystem
 > * Significant changes to it would disrupt the ecosystem of the Specification (e.g., in terms of adoption or references).
 
-* Add to the CG Process a **default decision-making process** with these provisions:
-  * The group **should** make decisions by consensus, especially once a specification has gained Traction.
-  * Participants have a right to express reasonable positions.
-  * (We can then remove this Note: "W3C encourages groups adopt decision-making policies that promote consensus.")
+### Decision processes once a Specification has traction
 
-* Add to the CG Process that a CG **may** define its own decision-making process and it **may** differ 
-  from the default decision-making process. If a group defines its own decision-making process:
-  * It **must** be documented in an operational agreement.
-  * It **should** encourage consensus decisions, especially once a specification has gained Traction.
-  * It **must** describe how formal objections will be handled.
+* Chairs should seek to make decisions when there is consensus. 
+* Chairs or editors determine and record consensus decisions through the GitHub repo for the specification.
+* Chairs should ensure that the decision process is fair, respects the consensus of the CG, and does not unreasonably favor or discriminate against any group participant or their employer. 
 
-* Amend the CG Process to say that CG **should** (instead of **may**) have an operational agreement (charter) to cover decision processes and other matters.
-  * (We should keep in place the existing rules governing operational agreements.)
+### Handling formal objections
 
-* Add to the CG process that when a participant wishes to contest a **process matter**, they may escalate to the Community Development Lead, who will work with the participant and Chairs tounderstand the situation and pursue a fair resolution.
+* Where participants do not reach consensus and substantial disagreement remains (e.g., the group is divided), the Editors
+  should continue with their preference.
+* The issue should be recorded publicly as decided without consensus. 
+* Participants may choose to develop an alternative branch of the specification to seek support from implementers or
+the community.
+* If a specification advances to standardization, the issues decided without consensus should be brought to the attention
+of the standards group.
 
-* Clarify in the CG Process that there is no formal appeal path outside a Community Group for **technical decisions** made by the Community Group. (Thus, there is no appeal to the staff, or the TAG, or a Council.) Instead:
-  * Participants **should** record formal objections (publicly) within the  Community Group and **should** bring them to the attention of a group that takes up the specification for standardization.
-  * Participants who want to develop alternative proposals can do so in other Community Groups.
-  
-  
-**Note:** Although we want Specifications with traction to advance to standardization, we also want to be able to charter a Working Group in some cases where there is not traction, especially when there may be multiple proposals on the table and the CG has not yet converged on a single approach for addressing a goal. In this case, W3C may wish to start a Working Group (with its additional process supports) to pursue a harmonized Specification.
+### Appeals
+
+* When a participant wishes to contest a **process matter**, they may escalate to the Community Development Lead, who will work with the participant and Chairs to understand the situation and pursue a fair resolution.
+* There is no formal appeal path outside a Community Group for **technical decisions** made by the Community Group.
 
 ## Implementation Notes
 
