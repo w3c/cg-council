@@ -15,26 +15,23 @@ The full life cycle of W3C Working Group specifications has grown more complex o
    * W3C has rescinded such endorsement.
    * The work has been abandoned prior to endorsement.
 
-For Community Group specifications, we have historically only identified two states:
+For Community Group specifications, we have historically only identified two stages:
 
 * Draft
-* Final. The “Final” state has served two purposes:
+* Final. The “Final” stage has served two purposes:
    * Set expectations that the specification is stable.
    * Secure stronger IPR commitments, for example, as a precursor to transferring the specification to a Working Group for standardization.
 
-However, we observe that more states would be useful to communicate certain realities:
+However, we observe that more stages could be useful to communicate certain realities:
 
 * Another organization has taken up the work (e.g., for standardization) and so the Community Group is no longer the “owner.”
 * A Community Group has stopped work either following an explicit decision or because they abandoned their work.
 
-In addition, as part of a plan to enhance the Community Group program, we believe that defining additional states will support several goals:
-
-* Clearer communication about the status of a Community Group specification and the guarantees associated with specifications with that status.
-* Potential process enhancements associated with those specifications that have achieved ecosystem traction.
+In addition, as part of a plan to enhance the Community Group program, we plan to improve communication about the status of Community Group specifications and how to use or refer to them.
 
 # Audiences
 
-We identify the following audiences who should understand the meaning of the different states and what may be asked of that audience:
+We seek to communicate specification status to these audiences:
 
 * CG Participants
 * Developers (of Web applications)
@@ -43,16 +40,13 @@ We identify the following audiences who should understand the meaning of the dif
 * SDOs (especially those who may standardize CG Specifications)
 * Regulators
 
-# Communication of States
+# Communication of specification status
 
-One idea to communicate state information is to combine status, circumstances, and usage guidance. How we implement this communication (e.g., vocabulary, design, etc.) is not yet defined.
+## Maturity stages
 
-## Status
-
-* The primary status is "Draft"
-* Additional statuses may be useful for clear communication, including:
-   * Transferred and discontinued in the CG
-   * Retired (with rationale)
+* Draft: In development in this CG
+* Transferred: Transferred for more development; no longer in development in this CG.
+* Retired: Not transferred, no longer in development in this CG.
 
 ## Circumstances
 
