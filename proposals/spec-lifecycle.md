@@ -65,7 +65,7 @@ We seek to communicate specification status to these audiences:
    * Availability of polyfills
 * Standardization expectation
    * Unknown
-   * Intent to standardize (with info about venue)
+   * Intent to standardize (with info about venue, possibly time frame)
 * Revision management (after handoff for standardization)
    * Transferred (work has stopped for now in the CG)
    * Independent (CG works on new versions only)
@@ -89,6 +89,17 @@ We seek to communicate specification status to these audiences:
 * Traction = High
    * Standardization expectation = “unknown => Although this specification appears to be gaining traction, at this time, we are not aware of any standardization expectations.”
    * Standardization expectation = “intent => This specification appears to be gaining traction and the CG has indicated an intent to advance to standardization. We recommend checking periodically to see whether the specification has been transferred to a group for standardization.”
+
+# Ideas for data management
+
+* Status information is specified in a file in the specification repo.
+* The status information is surfaced in the specification (at least).
+   * Integrate into respec and bikeshed
+* Editors are responsible for maintaining the data.
+* Nice to have: notification of status changes.
+* Tools can monitor status information and report findings, such as:
+   * The file says there's one implementation, but we detect more than one.
+   * The file set an expectation about a time frame for advancement to another SDO and that time has elapsed.
 
 # Notes
 
