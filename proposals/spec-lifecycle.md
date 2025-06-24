@@ -90,7 +90,7 @@ Patent licensing commitments
    * Standardization expectation = “unknown => Although this specification appears to be gaining traction, at this time, we are not aware of any standardization expectations.”
    * Standardization expectation = “intent => This specification appears to be gaining traction and the CG has indicated an intent to advance to standardization. We recommend checking periodically to see whether the specification has been transferred to a group for standardization.”
 
-## Notes
+# Notes
 
 * Circumstances can evolve independently. As a result, each circumstance should have an associated date so you know when it was last updated.
 * How to ensure that the representation of circumstances remains are up-to-date (in the spec and/or on w3.org)?
