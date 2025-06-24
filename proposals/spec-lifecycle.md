@@ -67,10 +67,10 @@ We seek to communicate specification status to these audiences:
    * Unknown
    * Intent to standardize (with info about venue)
 * Revision management (after handoff for standardization)
-   * None (work has stopped for now in the CG)
+   * Transferred (work has stopped for now in the CG)
    * Independent (CG works on new versions only)
    * Codependent (CG works on materials as input to standards group)
-Patent licensing commitments
+* Patent licensing commitments
    * Contribution-only
    * Contribution + Full specification (FSA)
 * Adoption level
