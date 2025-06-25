@@ -44,9 +44,12 @@ We seek to communicate specification status to these audiences:
 
 ## Maturity stages
 
-* Draft: In development in this CG
-* Transferred: Transferred for more development; no longer in development in this CG.
-* Retired: Not transferred, no longer in development in this CG.
+* **Draft**
+   * Meaning: In development in this CG
+* **Transferred** 
+   * Meaning: Transferred for more development; no longer in development in this CG.
+* **Retired**
+   * Meaning: Not transferred, no longer in development in this CG.
 
 ## Circumstances
 
