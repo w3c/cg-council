@@ -55,7 +55,7 @@ We seek to communicate specification status to these audiences:
 
 Circumstances are likely to come from both curated sources and metadata already managed in other venues.
 
-### Information communicated through curated metadata
+### Curated data
 
 #### Test suite
 
@@ -97,7 +97,7 @@ This information is only necessary for the stage "transferred":
   * Codependent (CG works on materials as input to standards group)
    
    
-### Information managed in other sources
+### Data managed elsewhere
 
 * Last modified
   * Typically managed within document (e.g., publication date or last commit date)
