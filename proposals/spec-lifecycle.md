@@ -47,43 +47,82 @@ We seek to communicate specification status to these audiences:
 * **Draft**
    * Meaning: In development in this CG
 * **Transferred** 
-   * Meaning: Transferred for more development; no longer in development in this CG.
+   * Meaning: Transferred for more development; no longer in development in this CG. May be in development or standardization elsewhere (see status for details).
 * **Retired**
    * Meaning: Not transferred, no longer in development in this CG.
 
 ## Circumstances
 
-* Development
-   * Last modified
-   * Expiry date (à la IETF documents)
-   * Group status (e.g., closed or dormant)
-* Community support 
-   * Is there strong support? Strong opposition? Alternative proposals?
-   * Are potential implementers of the specification participating in its development?
-* Implementation status (and, for each one, number)
-   * Intent to implement
-   * Prototyping
-   * Shipping
-   * Availability of tests
-   * Availability of polyfills
-* Standardization expectation
-   * Unknown
-   * Intent to standardize (with info about venue, possibly time frame)
-* Revision management (after handoff for standardization)
-   * Transferred (work has stopped for now in the CG)
-   * Independent (CG works on new versions only)
-   * Codependent (CG works on materials as input to standards group)
-* Patent licensing commitments
-   * Contribution-only
-   * Contribution + Full specification (FSA)
-* Adoption level
-   * Are experiments/pilots happening?
-   * Are there real-world deployments?
-* Traction
-   * Low
-   * Medium
-   * High
+Circumstances are likely to come from both curated sources and metadata already managed in other venues.
+
+### Information communicated through curated metadata
+
+#### Test suite
+
+* **Source**
+  * URL to tests, otherwise empty to indicate no known tests
+
+#### Implementation
+
+We foresee a list of implementation blocks. For each block:
+
+* **Name**
+* **Class of implementation** 
+  * Example: browser
+  * Example: server 
+  * Example: plug-in or polyfill
+* **Status of implementation**
+  * Intent to implement
+  * Prototype
+  * Shipping
+
+#### Community support
+
+* **Consensus**  
+  * Is there strong support for the specification? Strong opposition? Alternative proposals?
+* **Stability**
+  * Indicate community expectation for specification stability. Would significant changes disrupt the ecosystem of the Specification (e.g., in terms of adoption or references)?
+* **Implementer participation**  
+  * Are potential implementers of the specification participating in its development?
+* **Adoption**
+  * Identify known pilots or experiments.
+  * Identify examples of real-world deployment
+
+#### Revision management
+
+This information is only necessary for the stage "transferred":
+
+* **Revision management**
+  * Independent (CG works on new versions only)
+  * Codependent (CG works on materials as input to standards group)
    
+   
+### Information managed in other sources
+
+* Last modified
+  * Typically managed within document (e.g., publication date or last commit date)
+* Implementation traction
+  * Determined from announcements of intent to prototype, implement, ship; automated detection of shipping features
+* Group status
+  * Typically managed through W3C database (e.g., group open, closed, or dormant)
+* Patent licensing commitments
+  * Typically determined by stage (draft)
+  * There may be more options soon depending on potential changes to CLA.
+* Standardization plan
+  * We are developing separately ideas for metadata to describe standardization plans (e.g., if plan to standardize, what venue and on what schedule); whether that data lives
+in a separate document or is part of other circumstances data remains to be seen.
+
+### Ideas for data management
+
+* Status information is specified in a file in the specification repo. It should be easy to determine the last modified date of that file.
+* The status information is surfaced in the specification (at least).
+   * Integrate into respec and bikeshed
+* Editors are responsible for maintaining the data.
+* Nice to have: notification of status changes.
+* Tools can monitor status information and report findings, such as:
+   * The file says there's one implementation, but we detect more than one.
+   * The file set an expectation about a time frame for advancement to another SDO and that time has elapsed.
+
 ## Usage Guidance
 
 * Reports (and repos) should include usage guidance that depend on the status and circumstances. It might be interesting to see if we can generate the usage guidance systematically for each combination of status and circumstance.
@@ -93,18 +132,3 @@ We seek to communicate specification status to these audiences:
    * Standardization expectation = “unknown => Although this specification appears to be gaining traction, at this time, we are not aware of any standardization expectations.”
    * Standardization expectation = “intent => This specification appears to be gaining traction and the CG has indicated an intent to advance to standardization. We recommend checking periodically to see whether the specification has been transferred to a group for standardization.”
 
-# Ideas for data management
-
-* Status information is specified in a file in the specification repo.
-* The status information is surfaced in the specification (at least).
-   * Integrate into respec and bikeshed
-* Editors are responsible for maintaining the data.
-* Nice to have: notification of status changes.
-* Tools can monitor status information and report findings, such as:
-   * The file says there's one implementation, but we detect more than one.
-   * The file set an expectation about a time frame for advancement to another SDO and that time has elapsed.
-
-# Notes
-
-* Circumstances can evolve independently. As a result, each circumstance should have an associated date so you know when it was last updated.
-* How to ensure that the representation of circumstances remains are up-to-date (in the spec and/or on w3.org)?
