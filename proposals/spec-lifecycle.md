@@ -5,7 +5,7 @@ This topic was discussed in a breakout session during the AC 2025 meeting; see t
 
 # Motivation
 
-The full life cycle of W3C Working Group specifications has grown more complex over time as a tool to communicate important information to readers of a specification such as:
+The full life cycle of _W3C Working Group specifications_ has grown more complex over time as a tool to communicate important information to readers of a specification such as:
 
 * The measure of consensus associated with a specification.
 * Whether a specification should be implemented experimentally or has been successfully implemented by independent parties.
