@@ -15,7 +15,7 @@ The full life cycle of _W3C Working Group specifications_ has grown more complex
    * W3C has rescinded such endorsement.
    * The work has been abandoned prior to endorsement.
 
-For Community Group specifications, we have historically only identified two stages:
+For _Community Group specifications_, we have historically only identified two stages:
 
 * Draft
 * Final. The “Final” stage has served two purposes:
