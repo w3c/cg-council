@@ -47,7 +47,7 @@ We seek to communicate specification status to these audiences:
 * **Draft**
    * Meaning: In development in this CG
 * **Archived**
-   * Meaning: The CG has published a version of the document that will not change (e.g., it might be a stable version 1). The status of the specification indicates expectations at the time of publication about whether the specification was successfully completed and may be used, or was abandoned before being archived.
+   * Meaning: The CG has published a version of the document that will not change (e.g., it might be a stable version 1). The status of the specification sets expectations at the time of publication about whether the specification was successfully completed and may be used, or was abandoned before being archived.
 * **Transferred** 
    * Meaning: Transferred for more development; no longer in development in this CG. May be in development or standardization elsewhere (see status for details).
 
