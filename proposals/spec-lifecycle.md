@@ -55,6 +55,8 @@ We seek to communicate specification status to these audiences:
 
 Circumstances are likely to come from both curated sources and metadata already managed in other venues.
 
+**Note:** We are also discussing standardization plan metadata, and all the curated data may end up in once place.
+
 ### Curated data
 
 #### Test suite
