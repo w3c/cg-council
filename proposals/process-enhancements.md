@@ -46,6 +46,8 @@ of the standards group.
 
 ### Appeals
 
+Note: This may need to go in a revised CG Process.
+
 * When a participant wishes to contest a **process matter**, they may escalate to the Community Development Lead, who will work with the participant and Chairs to understand the situation and pursue a fair resolution.
 * There is no formal appeal path outside a Community Group for **technical decisions** made by the Community Group.
 
