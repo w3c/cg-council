@@ -13,7 +13,18 @@ Community Groups have become a credential entry point to Web standardization, bo
 * When a CG is just getting started, provide additional support and training for Chairs to help them run the group successfully.
 * At all times, foster clear communication about the status of CG specifications and do more to help the community distinguish community-driven work from W3C's standardization activities.
 
-Achieving these objectives are likely to involve a number of enhancements. For example, lowering barriers to standardization may involve changes to the participation model, changes to IPR policies, and changes to other elements of W3C process. 
+We anticipate that each objective may involve multiple changes. For
+example, lowering barriers to standardization may involve changes to
+the participation model, changes to IPR policies, and changes to other
+elements of W3C process.
+
+Changes may affect a number of aspects of the program:
+
+* CG-specific Process and IPR agreements
+* Integration of general W3C policies (e.g., code of conduct, competition guidance)
+* Training materials
+* Tooling support
+* Visual design and information architecture
 
 The Council's [issues related to revamp 2024](https://github.com/w3c/cg-council/labels/revamp-2024) capture some of the themes and challenges that we have surfaced through our discussions.
 
