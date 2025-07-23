@@ -1,5 +1,5 @@
 # Process Enhancements for CG Specifications with Traction
-Status: This is a proposal for discussion; it does not yet represent consensus.
+Status: As of July 2025, the staff is no longer pursuing this proposal.
 
 ## Background
 

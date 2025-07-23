@@ -11,4 +11,3 @@ See the [issues related to revamp 2024](https://github.com/w3c/cg-council/labels
 
 * [CG Specification Lifecycle](proposals/spec-lifecycle.md)
 * [Community Group Lifecycle](proposals/cg-lifecycle.md)
-* [Process Enhancements](proposals/process-enhancements.md)
