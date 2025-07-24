@@ -1,5 +1,7 @@
 # Handling standardization ambiguity
 
+Status: This is a proposal for discussion; it does not yet represent consensus.
+
 The [About page for CGs](https://www.w3.org/community/about/) begins:
 
 > W3C has created Community and Business Groups to meet the needs of a growing community of Web stakeholders. Community Groups enable anyone to socialize their ideas for the Web at the W3C for possible future standardization.
