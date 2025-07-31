@@ -35,6 +35,7 @@ To address the above objectives we are developing a series of proposals, listed 
 * [CG Specification Lifecycle](proposals/spec-lifecycle.md)
 * [Community Group Lifecycle](proposals/cg-lifecycle.md)
 * [Handling standardization ambiguity](proposals/handling-ambiguity.md)
+* [Support for continued participation in a Working Group by CG contributors](proposals/continued-participation.md)
 
 ### Links to presentations
 
