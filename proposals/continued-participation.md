@@ -73,7 +73,7 @@ We propose to conduct an experiment to test the following hypothesis:
 
 We will rely on the existing [Invited Expert agreement](https://www.w3.org/invited-experts/agreement-2023/) and simply ask organizations to make organizational patent commitments (e.g., via email acknowledgment).
 
-## Future Implementation
+## Future implementation considerations
 
 This policy resembles the [Invited Expert policy](https://www.w3.org/policies/process/#invited-expert-wg) with several modifications:
 
