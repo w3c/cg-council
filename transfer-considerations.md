@@ -70,6 +70,8 @@ It is a goal of the Community Group program that specifications with traction ad
   * If the CG wishes to change materials that are also found in the WG Specification, how do the groups manage alignment?
 * **Enhancement in development**: Traditionally within W3C, Working Group participation has been reserved for W3C Members and Invited Experts. We seek to change this practice so that non-Member CG participants who have made significant contributions to a CG Specification are invited to participate at no cost in the Working Group that takes up the CG Specification, provided that the individual’s employer makes an organizational-level commitment to the W3C Working Group for that same Specification.
 
+CG Chairs are also encouraged to familiarize themselves with the [W3C Process for creating a Working Group](https://www.w3.org/policies/process/#group-lifecycle) and the [operational details](https://www.w3.org/guide/process/charter.html#new-charters) of chartering a Working Group.
+
 #### Other SDO Considerations
 
 * What are the confidentiality policies of the SDO? This may have an impact on revision management strategies.
