@@ -36,6 +36,7 @@ To address the above objectives we are developing a series of proposals, listed 
 * [Community Group Lifecycle](proposals/cg-lifecycle.md)
 * [Handling standardization ambiguity](proposals/handling-ambiguity.md)
 * [Support for continued participation in a Working Group by CG contributors](proposals/continued-participation.md)
+* [CG Process](proposals/cg-process.md)
 
 ### Links to presentations
 
