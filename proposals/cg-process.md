@@ -39,7 +39,7 @@ When a participant resigns from a Community Group, they incur no new or further 
 
 ### When participation issues arise
 
-This process adopts the [Guidelines to suspend or remove participants from groups](https://www.w3.org/guide/process/suspension.html) for handling participation issues in Community Groups.
+This process adopts the [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/) and [Guidelines to suspend or remove participants from groups](https://www.w3.org/guide/process/suspension.html) for handling participation issues in Community Groups.
 
 ## Lifecycle of Community Groups
 
