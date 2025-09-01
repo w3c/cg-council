@@ -1,8 +1,17 @@
 # Community Group Process
 
-**Status**: This is a draft revision for discussion. 
+**Status**: This is a draft revision for discussion. Key changes from the [CG Process currently in force](https://www.w3.org/community/about/process/):
 
-This version of the process does not mention Business Groups, but that is mostly to focus discussion on Community Groups. This is not meant to imply anything about the future of Business Groups.
+* This revision of the process does not mention Business Groups, but that is mostly to focus discussion on Community Groups. This is not meant to imply anything about the future of Business Groups.
+* Dropped the CG Forum (not used for many years)
+* Dropped CG Council because it played no normative role. We should still have a CG Council for those interested in the evolution of CGs.
+* Dropped the use of the word "Report"
+* Added
+  * Explicit mention of other policies governing CGs.
+  * Expanded group lifecycle
+  * Make more explicit the goal of identifying and updating scope and standardization plans
+  * More actions may be taken if a group has no chair or if there are issues with chairs.
+  * Explicit mention that there is an appeal path for process issues, but no appeal path for technical decisions.
 
 ## Abstract
 
