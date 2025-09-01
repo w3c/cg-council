@@ -1,6 +1,6 @@
 # Community Group Process
 
-**Status**: This is a draft for discussion. 
+**Status**: This is a draft revision for discussion. 
 
 This version of the process does not mention Business Groups, but that is mostly to focus discussion on Community Groups. This is not meant to imply anything about the future of Business Groups.
 
