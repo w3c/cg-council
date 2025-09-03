@@ -84,6 +84,7 @@ We foresee a list of implementation blocks. For each block:
   * Is there strong support for the specification? Strong opposition? Alternative proposals?
 * **Stability**
   * Indicate community expectation for specification stability. Would significant changes disrupt the ecosystem of the Specification (e.g., in terms of adoption or references)?
+  * One specific use case is to send a "last call" stability signal.
 * **Implementer participation**  
   * Are potential implementers of the specification participating in its development?
 * **Adoption**
