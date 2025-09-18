@@ -79,6 +79,8 @@ CG Chairs are also encouraged to familiarize themselves with the [W3C Process fo
 
 ### Intellectual Property
 
+See [Are IPR commitments in place?](https://www.w3.org/guide/process/cg-transition.html#are-ipr-commitments-in-place) when requesting publication on the Rec Track.
+
 #### W3C Considerations
 
 CG participants agree to the terms of the [Contributor Licensing Agreement (CLA)](https://www.w3.org/community/about/process/cla/) for Specifications developed by the CG. Contributors to a Specification agree to license (“perpetual, worldwide, non-exclusive, no-charge, royalty-free”) their Contributions to parties who make use of those Contributions as part of implementing the Specification.
